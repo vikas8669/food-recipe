@@ -1,5 +1,5 @@
 import { IoMdClose } from "react-icons/io";
-import ItemCard from "./itemCard";
+import ItemCard from "./ItemCard";
 import { useSelector } from "react-redux";
 import { useState } from "react";
 import { FaCartPlus } from "react-icons/fa";
